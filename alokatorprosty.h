@@ -1,0 +1,4 @@
+#ifndef ALOKATORPROSTY_H
+#define ALOKATORPROSTY_H
+
+#endif // ALOKATORPROSTY_H
